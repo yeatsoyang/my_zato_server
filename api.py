@@ -1,4 +1,5 @@
 #-*- coding: utf-8 -*-
+#-*- api -*-
 
 import os
 import sys
